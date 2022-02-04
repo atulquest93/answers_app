@@ -1,10 +1,10 @@
 # Answers_APP Assignment
 
 ## Tech Stack
-Go 
-Gin :- Rest Framework for Go
-Gorm :- ORM for Go
-MySQL :- Database 
+- Go 
+- Gin :- Rest Framework for Go
+- Gorm :- ORM for Go
+- MySQL :- Database 
 
 ## To Run Code
 1. Checkout Code locally
