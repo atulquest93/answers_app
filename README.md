@@ -8,7 +8,7 @@
 
 ## To Run Test Case
 - `go test -p 1 -v`
-\n Test cases will run sequencially as Update / Delete / Read can only be tested once key is present. 
+<br/> Test cases will run sequencially as Update / Delete / Read can only be tested once key is present. 
 
 ## To Run Code
 1. Checkout Code locally
